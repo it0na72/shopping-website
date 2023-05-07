@@ -36,9 +36,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Gained proficiency using HTML, CSS (media queries) & Vanilla Javascript
 ![BshopeBGwj](https://user-images.githubusercontent.com/56265972/236706506-da64f87e-3b59-4c89-bcd3-8c63f7690e4b.png)
-
+Gained proficiency using HTML, CSS (media queries) & Vanilla Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
