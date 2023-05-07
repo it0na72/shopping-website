@@ -86,6 +86,3 @@ Don't forget to give the project a star! Thanks again!
 You can contact me at - andrew@andreoliveira.art
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-problema deve ser da imagem, tentar postar um gif
