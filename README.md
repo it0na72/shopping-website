@@ -59,6 +59,7 @@ After cloning this repo you should be able to change your details as needed.
 - [ ] Add interactive add to cart system with PHP & mySQL
 - [ ] Add stripe API payment
 - [ ] Improve color pallet
+- [ ] Possibly add a search bar at the top to search for items
 
 
 See the [open issues](https://github.com/it0na72/shopping-website/issue) for a full list of proposed features (and known issues).
