@@ -24,7 +24,7 @@
             border: 0; /* For IE */
             /* Aspect ratio of image, gives initial dimension to prevent text moving down once image is loaded */
             /* When changing logo, change this also */
-            aspect-ratio: 125 / 50;
+            
         }
         #main {
             vertical-align: middle;
@@ -62,7 +62,13 @@
             from { width: 0%; }
         }
 
-        @media screen and (max-width:600px) {
+
+        @media (max-width:799px) {
+            img {
+            width: 60%;
+            }
+        }
+        @media screen and (max-width:477px) {
             img {
                 width: 60%;
             }
@@ -73,19 +79,17 @@
                 margin: 1.1em;
                 font-size: 1.1em;
             }
-            #progress {
-                width: 80%; /* Bar width */
-            }
         }
     </style>
     <title>Coming Soon</title>
 </head>
 <body>
     <div id="main">
-        <a href="https://github.com/it0na72"><img src="img/logo.png" width= "100px" height="500px" alt="Logo Image"></a>
+        <a href="https://github.com/it0na72"><img src="img/logo.png" alt="Logo Image"></a>
         <h1>Andrew's Shopping Website</h1>
         <h2>If you found this, you should probably go back. There's nothing here, unfortunately. </h2>
         <h6>There might be in the future.</h6>
+        <a href="index.html"><h4>Go Back</h4></a>
     </div>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 </body>
