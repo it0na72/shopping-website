@@ -34,7 +34,7 @@
         </section>
 
         <section id="page-header" class="about-header">
-            <h2>Your Cart</h2>
+            <h2>Your Cart (Work in Progress)</h2>
             <p>Apply code #andrew72 to get 70% off!</p>
         </section>
 
@@ -50,34 +50,35 @@
                         <td>Subtotal</td>
                     </tr>
                 </thead>
-                <tbody>
-                    <tr>
-                        <td><a href="#"><i class="far fa-times-circle"></i></a></td>
+                <tbody class="cart cart-items">
+                    <tr class="cart-row">
+                        <td><button class="normal"> remove </button></td>
                         <td><img src="img/products/f1.jpg" alt=""></td>
                         <td>Fashionable T-Shirt 1</td>
-                        <td>£15</td>
-                        <td><input type="number" value="1"></td>
+                        <td class="cart-price">£15</td>
+                        <td><input class = "cart-quantity input" type="number" value="1"></td>
                         <td>£15</td>
                     </tr>
-                    <tr>
-                        <td><a href="#"><i class="far fa-times-circle"></i></a></td>
+                    <tr class="cart-row">
+                        <td><button class="normal"> remove </button></td>
                         <td><img src="img/products/f2.jpg" alt=""></td>
                         <td>Fashionable T-Shirt 2</td>
-                        <td>£15</td>
-                        <td><input type="number" value="1"></td>
+                        <td class="cart-price">£15</td>
+                        <td><input class = "cart-quantity input" type="number" value="1"></td>
                         <td>£15</td>
                     </tr>
-                    <tr>
-                        <td><a href="#"><i class="far fa-times-circle"></i></a></td>
+                    <tr class="cart-row">
+                        <td><button class="normal"> remove </button></td>
                         <td><img src="img/products/f3.jpg" alt=""></td>
                         <td>Fashionable T-Shirt 3</td>
-                        <td>£15</td>
-                        <td><input type="number" value="1"></td>
+                        <td class="cart-price">£15</td>
+                        <td><input class = "cart-quantity input" type="number" value="1"></td>
                         <td>£15</td>
                     </tr>
                 </tbody>
             </table>
         </section>
+        
 
         <section id="cart-add" class="section-p1">
             <div id="coupon">
@@ -160,7 +161,7 @@
             </div>
                 
         </footer>
-        <script src="script.js"></script>
+        <script src="script.js" async></script>
     </body>
 
 </html>
