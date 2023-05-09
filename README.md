@@ -36,7 +36,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![BshopeBGwj](https://user-images.githubusercontent.com/56265972/236706506-da64f87e-3b59-4c89-bcd3-8c63f7690e4b.png)
+![7ixQalEV6J](https://user-images.githubusercontent.com/56265972/236938674-b8654a0a-44e4-4369-a860-2bf5cc0f3b0f.png)
+
 Gained proficiency using HTML, CSS (media queries) & Vanilla Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -54,9 +55,11 @@ After cloning this repo you should be able to change your details as needed.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add backend + login system
+- [ ] Add login system
+- [ ] Add interactive add to cart system with PHP & mySQL
 - [ ] Add stripe API payment
 - [ ] Improve color pallet
+- [ ] Possibly add a search bar at the top to search for items
 
 
 See the [open issues](https://github.com/it0na72/shopping-website/issue) for a full list of proposed features (and known issues).
