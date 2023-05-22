@@ -55,11 +55,12 @@ After cloning this repo you should be able to change your details as needed.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add login system
-- [ ] Add interactive add to cart system with PHP & mySQL
+- [ ] Add login system + database
+- [ ] Add interactive add to cart system
 - [ ] Add stripe API payment
 - [ ] Improve color pallet
 - [ ] Possibly add a search bar at the top to search for items
+- [ ] Add more items with relevant prices 
 
 
 See the [open issues](https://github.com/it0na72/shopping-website/issue) for a full list of proposed features (and known issues).
