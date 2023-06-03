@@ -38,7 +38,7 @@
 
 ![7ixQalEV6J](https://user-images.githubusercontent.com/56265972/236938674-b8654a0a-44e4-4369-a860-2bf5cc0f3b0f.png)
 
-Gained proficiency using HTML, CSS (media queries) & Vanilla Javascript
+Gained proficiency using HTML, CSS & Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
