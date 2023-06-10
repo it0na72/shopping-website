@@ -58,9 +58,10 @@ After cloning this repo you should be able to change your details as needed.
 - [ ] Add login system + database
 - [ ] Add interactive add to cart system
 - [ ] Add stripe API payment
-- [ ] Improve color pallet
+- [ ] Change color pallet
 - [ ] Possibly add a search bar at the top to search for items
 - [ ] Add more items with relevant prices 
+- [ ] Add dark mode 
 
 
 See the [open issues](https://github.com/it0na72/shopping-website/issue) for a full list of proposed features (and known issues).
