@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/it0na72/shopping-website">
-    <img src="img/logo.png" alt="Logo" width="100" height="150">
+  <a href="https://it0na72.github.io/shopping-website/">
+    <img src="img/logo.png" alt="Logo" width="80" height="110">
   </a>
 <h3 align="center">Andrew's Shopping Website</h3>
 
